@@ -4,8 +4,6 @@
 
 **Integrantes:** Gaspar Rivollier · Mariel Gaitan
 
----
-
 ## Descripción
 
 Trabajo práctico N°3 de Visión por Computadora I. El objetivo es detectar el logo de Coca-Cola en un conjunto de imágenes utilizando técnicas clásicas de procesamiento de imágenes y descriptores de características.
